@@ -1,7 +1,7 @@
 {
     "name": "edu-http-classic",
     "description": "Simple backend server",
-    "repository": "https://github.com/miwashi-edu/edu-http-classic-js.git",
+    "repository": "https://github.com/CristianBerglund/http-classics",
     "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
     "keywords": ["node", "express", "heroku"],
     "image": "heroku/nodejs"
